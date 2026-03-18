@@ -1,0 +1,102 @@
+{
+  "title": "Punch-In FX",
+  "children": [
+    {
+      "title": "Overview",
+      "lines": [
+        "PO-33 style punch-in",
+        "effects for Move.",
+        "",
+        "Hold Shift + pad to",
+        "trigger effects.",
+        "Release to stop.",
+        "",
+        "Left 4x4 pad grid.",
+        "Up to 3 FX at once."
+      ]
+    },
+    {
+      "title": "Knobs",
+      "lines": [
+        "Knob 1: BPM",
+        " Tempo 40-300 BPM",
+        " (auto-syncs to clock)",
+        "",
+        "Knob 2: Volume",
+        " FX output level 0-200%",
+        "",
+        "Knob 3: Dry/Wet",
+        " Mix 0-100% (def: 100%)"
+      ]
+    },
+    {
+      "title": "Row 4 (top): Loops",
+      "lines": [
+        "Pad 1: Loop 16th",
+        "Pad 2: Loop triplet 8th",
+        "Pad 3: Loop 32nd",
+        "Pad 4: Loop 48th",
+        "",
+        "Captures recent audio",
+        "and loops at tempo."
+      ]
+    },
+    {
+      "title": "Row 3: Modulation",
+      "lines": [
+        "Pad 5: Unison chorus",
+        "Pad 6: Unison low (deep)",
+        "Pad 7: Octave up",
+        "Pad 8: Octave down",
+        "",
+        "Pressure controls",
+        "detune depth."
+      ]
+    },
+    {
+      "title": "Row 2: Stutter/Scratch",
+      "lines": [
+        "Pad 9: Stutter 8th",
+        "Pad 10: Stutter triplet",
+        "Pad 11: Scratch",
+        "Pad 12: Scratch fast",
+        "",
+        "Stutter: pressure =",
+        " duty cycle.",
+        "Scratch: pressure =",
+        " speed + direction."
+      ]
+    },
+    {
+      "title": "Row 1: Time/Transform",
+      "lines": [
+        "Pad 13: 6/8 Quantize",
+        "Pad 14: Retrigger",
+        "Pad 15: Reverse",
+        "Pad 16: Kill all FX",
+        "",
+        "Retrigger: chops +",
+        " shuffles audio chunks.",
+        "Reverse: plays audio",
+        " backwards."
+      ]
+    },
+    {
+      "title": "Tips",
+      "lines": [
+        "Hold multiple pads to",
+        "stack up to 3 effects.",
+        "",
+        "Pressure controls FX",
+        "character (speed,",
+        "detune, duty cycle).",
+        "",
+        "BPM auto-syncs from",
+        "MIDI clock if present.",
+        "",
+        "Pad 16 (bottom-right)",
+        "kills all active FX."
+      ]
+    }
+  ]
+}

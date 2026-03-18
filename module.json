@@ -1,0 +1,35 @@
+{
+    "id": "punchfx",
+    "name": "Punch-In FX",
+    "abbrev": "PFXS",
+    "version": "0.1.0",
+    "description": "PO-33 style punch-in effects with pressure control. 16 effects on left 4x4 pad grid.",
+    "author": "fillioning",
+    "dsp": "punchfx.so",
+    "ui_chain": "ui_chain.js",
+    "api_version": 2,
+    "component_type": "audio_fx",
+    "raw_midi": true,
+    "capabilities": {
+        "chainable": true,
+        "component_type": "audio_fx",
+        "midi_in": true,
+        "audio_in": true,
+        "chain_params": [
+            {"key": "bpm", "name": "BPM", "type": "int", "min": 40, "max": 300, "default": 120, "step": 1},
+            {"key": "volume", "name": "Volume", "type": "float", "min": 0, "max": 1, "default": 0.5, "step": 0.01},
+            {"key": "mix", "name": "Dry/Wet", "type": "float", "min": 0, "max": 1, "default": 1, "step": 0.01}
+        ],
+        "ui_hierarchy": {
+            "modes": null,
+            "levels": {
+                "root": {
+                    "name": "Punch-In FX",
+                    "children": null,
+                    "knobs": ["bpm", "volume", "mix"],
+                    "params": ["bpm", "volume", "mix"]
+                }
+            }
+        }
+    }
+}
