@@ -1,6 +1,6 @@
 # Punch-In FX
 
-PO-33 K.O. style punch-in effects for [Ableton Move](https://www.ableton.com/move/), built on the [Move Everything](https://github.com/charlesvestal/move-everything) framework.
+PO-33 K.O. style punch-in effects for [Ableton Move](https://www.ableton.com/move/), built on the [Schwung](https://github.com/charlesvestal/schwung) framework.
 
 16 pressure-sensitive effects mapped to the left 4x4 pad grid. Hold **Shift + Pad** to trigger. Up to 3 effects can be stacked simultaneously in series.
 
