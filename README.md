@@ -34,7 +34,7 @@ Pad velocity and aftertouch modulate effect character:
 ## Install
 
 ### From Module Store
-Available in the Move Everything Module Store (on-device and desktop installer).
+Available in the Schwung Module Store (on-device and desktop installer).
 
 ### Manual Install
 ```bash
@@ -45,7 +45,7 @@ Available in the Move Everything Module Store (on-device and desktop installer).
 ## Credits
 
 - **DSP & Design**: Vincent Fillion ([fillioning](https://github.com/fillioning))
-- **Framework**: [Move Everything](https://github.com/charlesvestal/move-everything) by Charles Vestal
+- **Framework**: [Schwung](https://github.com/charlesvestal/schwung) by Charles Vestal
 - **Inspiration**: Teenage Engineering PO-33 K.O. punch-in effects
 
 ## License
